@@ -6,7 +6,7 @@
 
 A beautiful VS Code color theme inspired by [ABEHA](https://abeha.mx/)'s brand identity, featuring their signature warm amber color (#ff9e18) as the primary accent throughout the interface.
 
-![ABEHA Amber Theme Screenshot](screenshot.png)
+![ABEHA Amber Theme Screenshot](https://raw.githubusercontent.com/elmerjacobo97/ABEHA-theme-amber/main/screenshot.png)
 
 ## 🎨 Features
 
