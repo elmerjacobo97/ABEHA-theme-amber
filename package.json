@@ -3,14 +3,14 @@
   "displayName": "ABEHA Amber Theme",
   "description": "A VS Code theme inspired by ABEHA's branding, featuring a warm amber primary color (#ff9e18) in both dark and light modes.",
   "version": "0.0.1",
-  "publisher": "abeha",
+  "publisher": "elmerjacobo",
   "author": {
-    "name": "ABEHA",
-    "url": "https://abeha.mx/"
+    "name": "Elmer Jacobo",
+    "url": "https://elmerjacobo.dev"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/abeha/abeha-amber-theme"
+    "url": "https://github.com/elmerjacobo97/ABEHA-theme-amber"
   },
   "keywords": [
     "theme",
