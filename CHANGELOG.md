@@ -2,6 +2,12 @@
 
 All notable changes to the "ABEHA Amber Theme" extension will be documented in this file.
 
+## [0.0.2] - 2025-11-18
+
+### Changed
+
+- Updated copyright information in LICENSE to reflect correct authorship
+
 ## [0.0.1] - 2025-11-18
 
 ### Added
