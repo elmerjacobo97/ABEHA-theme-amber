@@ -2,7 +2,7 @@
   "name": "abeha-amber-theme",
   "displayName": "ABEHA Amber Theme",
   "description": "A VS Code theme inspired by ABEHA's branding, featuring a warm amber primary color (#ff9e18) in both dark and light modes.",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "publisher": "elmerjacobo",
   "icon": "icon.png",
   "galleryBanner": {

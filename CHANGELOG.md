@@ -2,6 +2,12 @@
 
 All notable changes to the "ABEHA Amber Theme" extension will be documented in this file.
 
+## [0.0.5] - 2025-11-18
+
+### Fixed
+
+- Screenshot now displays correctly in marketplace using GitHub raw URL
+
 ## [0.0.4] - 2025-11-18
 
 ### Added
