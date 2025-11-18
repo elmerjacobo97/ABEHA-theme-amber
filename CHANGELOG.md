@@ -2,6 +2,26 @@
 
 All notable changes to the "ABEHA Amber Theme" extension will be documented in this file.
 
+## [0.0.4] - 2025-11-18
+
+### Added
+
+- Extension icon (icon.png)
+- Screenshot showcasing the theme
+- Gallery banner configuration
+- Marketplace badges in README
+- Homepage and bugs URLs
+
+## [0.0.3] - 2025-11-18
+
+### Added
+
+- Extension icon (icon.png)
+- Screenshot showcasing the theme
+- Gallery banner configuration
+- Marketplace badges in README
+- Homepage and bugs URLs
+
 ## [0.0.2] - 2025-11-18
 
 ### Changed

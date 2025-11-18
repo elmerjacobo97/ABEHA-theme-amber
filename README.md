@@ -1,6 +1,12 @@
 # ABEHA Amber Theme
 
+[![VS Code Marketplace](https://img.shields.io/visual-studio-marketplace/v/elmerjacobo.abeha-amber-theme.svg)](https://marketplace.visualstudio.com/items?itemName=elmerjacobo.abeha-amber-theme)
+[![Installs](https://img.shields.io/visual-studio-marketplace/i/elmerjacobo.abeha-amber-theme.svg)](https://marketplace.visualstudio.com/items?itemName=elmerjacobo.abeha-amber-theme)
+[![Rating](https://img.shields.io/visual-studio-marketplace/r/elmerjacobo.abeha-amber-theme.svg)](https://marketplace.visualstudio.com/items?itemName=elmerjacobo.abeha-amber-theme)
+
 A beautiful VS Code color theme inspired by [ABEHA](https://abeha.mx/)'s brand identity, featuring their signature warm amber color (#ff9e18) as the primary accent throughout the interface.
+
+![ABEHA Amber Theme Screenshot](screenshot.png)
 
 ## 🎨 Features
 
